@@ -1,0 +1,10 @@
+name: Cert
+form: $/alex/cert/models/cert/fields.yaml
+modelClass: Alex\Cert\Models\Cert
+defaultRedirect: alex/cert/cert
+create:
+    redirect: 'alex/cert/cert/update/:id'
+    redirectClose: alex/cert/cert
+update:
+    redirect: alex/cert/cert
+    redirectClose: alex/cert/cert

@@ -1,0 +1,10 @@
+name: Aboutus
+form: $/alex/aboutus/models/aboutus/fields.yaml
+modelClass: Alex\AboutUs\Models\Aboutus
+defaultRedirect: alex/aboutus/aboutus
+create:
+    redirect: 'alex/aboutus/aboutus/update/:id'
+    redirectClose: alex/aboutus/aboutus
+update:
+    redirect: alex/aboutus/aboutus
+    redirectClose: alex/aboutus/aboutus

@@ -1,0 +1,10 @@
+name: Exp
+form: $/alex/exp/models/exp/fields.yaml
+modelClass: Alex\Exp\Models\Exp
+defaultRedirect: alex/exp/exp
+create:
+    redirect: 'alex/exp/exp/update/:id'
+    redirectClose: alex/exp/exp
+update:
+    redirect: alex/exp/exp
+    redirectClose: alex/exp/exp

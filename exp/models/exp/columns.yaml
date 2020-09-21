@@ -1,0 +1,10 @@
+columns:
+    id:
+        label: id
+        type: text
+    number:
+        label: Цифры
+        type: text
+    title:
+        label: Заголовок
+        type: text

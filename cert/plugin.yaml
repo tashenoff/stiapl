@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.cert::lang.plugin.name'
+    description: 'alex.cert::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Сертификаты
+        url: alex/cert/cert
+        icon: icon-life-ring

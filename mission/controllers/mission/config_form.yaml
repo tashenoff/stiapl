@@ -1,0 +1,10 @@
+name: Mission
+form: $/alex/mission/models/mission/fields.yaml
+modelClass: Alex\Mission\Models\Mission
+defaultRedirect: alex/mission/mission
+create:
+    redirect: 'alex/mission/mission/update/:id'
+    redirectClose: alex/mission/mission
+update:
+    redirect: alex/mission/mission
+    redirectClose: alex/mission/mission

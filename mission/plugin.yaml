@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.mission::lang.plugin.name'
+    description: 'alex.mission::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Миссия
+        url: alex/mission/mission
+        icon: icon-life-ring

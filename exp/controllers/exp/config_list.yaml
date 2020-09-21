@@ -1,0 +1,12 @@
+list: $/alex/exp/models/exp/columns.yaml
+modelClass: Alex\Exp\Models\Exp
+title: Exp
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'alex/exp/exp/update/:id'

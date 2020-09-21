@@ -1,0 +1,4 @@
+title: Cert
+modelClass: Alex\Cert\Models\Cert
+toolbar:
+    buttons: reorder_toolbar

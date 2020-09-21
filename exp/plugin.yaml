@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.exp::lang.plugin.name'
+    description: 'alex.exp::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Опыт в цифрах'
+        url: alex/exp/exp
+        icon: icon-life-ring

@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.about::lang.plugin.name'
+    description: 'alex.about::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'О нас на главной'
+        url: alex/about/about
+        icon: icon-life-ring

@@ -1,0 +1,4 @@
+title: Mission
+modelClass: Alex\Mission\Models\Mission
+toolbar:
+    buttons: reorder_toolbar

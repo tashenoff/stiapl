@@ -1,0 +1,4 @@
+title: Exp
+modelClass: Alex\Exp\Models\Exp
+toolbar:
+    buttons: reorder_toolbar

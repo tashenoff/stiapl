@@ -1,0 +1,10 @@
+fields:
+    title:
+        label: Заголовок
+        span: full
+        type: text
+        comment: 'Будет отображаться под цифрами'
+    number:
+        label: Цифры
+        span: full
+        type: text

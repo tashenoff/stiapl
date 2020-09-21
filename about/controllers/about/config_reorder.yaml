@@ -1,0 +1,4 @@
+title: About
+modelClass: Alex\About\Models\About
+toolbar:
+    buttons: reorder_toolbar
