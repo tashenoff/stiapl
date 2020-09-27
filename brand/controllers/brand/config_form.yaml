@@ -1,0 +1,10 @@
+name: Brand
+form: $/alex/brand/models/brand/fields.yaml
+modelClass: Alex\Brand\Models\Brand
+defaultRedirect: alex/brand/brand
+create:
+    redirect: 'alex/brand/brand/update/:id'
+    redirectClose: alex/brand/brand
+update:
+    redirect: alex/brand/brand
+    redirectClose: alex/brand/brand

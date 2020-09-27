@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.contact::lang.plugin.name'
+    description: 'alex.contact::lang.plugin.description'
+    author: alex
+    icon: oc-icon-coffee
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Контакты
+        url: alex/contact/contact
+        icon: icon-coffee

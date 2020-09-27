@@ -1,0 +1,4 @@
+title: Brand
+modelClass: Alex\Brand\Models\Brand
+toolbar:
+    buttons: reorder_toolbar

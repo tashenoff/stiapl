@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.brand::lang.plugin.name'
+    description: 'alex.brand::lang.plugin.description'
+    author: alex
+    icon: oc-icon-apple
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Бренды
+        url: alex/brand/brand
+        icon: icon-apple

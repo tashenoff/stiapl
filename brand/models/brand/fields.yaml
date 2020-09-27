@@ -1,0 +1,15 @@
+fields:
+    title:
+        label: 'Название бренда'
+        span: full
+        type: text
+        comment: 'Отображаться будет только в админ панели'
+    photos:
+        label: 'Загрузка лого'
+        mode: image
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: fileupload

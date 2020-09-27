@@ -1,0 +1,22 @@
+fields:
+    phones:
+        label: Телефоны
+        prompt: 'Добавить еще номер'
+        span: full
+        type: repeater
+        comment: 'Можно добавлять несколько'
+        form:
+            fields:
+                phone_tel:
+                    label: 'Номер телефона'
+                    span: auto
+                    type: text
+    adress:
+        label: Адрес
+        span: full
+        type: text
+    too:
+        label: 'Здесь можно разместить информацию о ТОО и т.д.'
+        size: small
+        span: full
+        type: richeditor
