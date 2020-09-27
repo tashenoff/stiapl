@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.uslugi::lang.plugin.name'
+    description: 'alex.uslugi::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Услуги
+        url: alex/uslugi/uslugi
+        icon: icon-life-ring

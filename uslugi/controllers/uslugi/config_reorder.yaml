@@ -1,0 +1,4 @@
+title: Uslugi
+modelClass: Alex\Uslugi\Models\Uslugi
+toolbar:
+    buttons: reorder_toolbar

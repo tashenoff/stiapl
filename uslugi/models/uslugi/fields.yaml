@@ -1,0 +1,23 @@
+fields:
+    title:
+        label: Заголовок
+        span: full
+        type: text
+        comment: 'например "РАЗРАБОТКА ДОКУМЕНТОВ ПО СТАНДАРТИЗАЦИИ:"'
+    items:
+        label: 'Заголовок и раскрывающая панель'
+        prompt: 'Добавить еще...'
+        span: full
+        type: repeater
+        form:
+            fields:
+                items_title:
+                    label: Услуга
+                    span: full
+                    type: text
+                    comment: 'например  "межгосударственных стандартов ГОСТ"'
+                items_text:
+                    label: 'Раскрывающийся текст'
+                    size: giant
+                    span: full
+                    type: richeditor

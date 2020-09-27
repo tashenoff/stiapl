@@ -1,0 +1,10 @@
+name: Uslugi
+form: $/alex/uslugi/models/uslugi/fields.yaml
+modelClass: Alex\Uslugi\Models\Uslugi
+defaultRedirect: alex/uslugi/uslugi
+create:
+    redirect: 'alex/uslugi/uslugi/update/:id'
+    redirectClose: alex/uslugi/uslugi
+update:
+    redirect: alex/uslugi/uslugi
+    redirectClose: alex/uslugi/uslugi
