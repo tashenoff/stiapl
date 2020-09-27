@@ -21,7 +21,7 @@ class Brand extends Model
      */
     public $table = 'alex_brand_';
     public $attachOne = [
-    'photos' => 'System\Models\file'
+    'photo' => 'System\Models\file'
 
     ];
   
