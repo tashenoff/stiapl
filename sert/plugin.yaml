@@ -1,0 +1,6 @@
+plugin:
+    name: 'alex.sert::lang.plugin.name'
+    description: 'alex.sert::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''

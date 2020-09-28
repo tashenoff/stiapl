@@ -3,5 +3,5 @@ columns:
         label: id
         type: text
     title:
-        label: Заголовок
+        label: title
         type: text

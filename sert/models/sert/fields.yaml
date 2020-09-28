@@ -1,10 +1,10 @@
 fields:
     title:
-        label: Text
+        label: 'Заголовок (будет показываться в админке))'
         span: full
         type: text
     img:
-        label: 'Загрузка сертификата'
+        label: 'File upload'
         mode: image
         useCaption: true
         thumbOptions:

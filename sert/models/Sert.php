@@ -1,11 +1,11 @@
-<?php namespace Alex\Cert\Models;
+<?php namespace Alex\Sert\Models;
 
 use Model;
 
 /**
  * Model
  */
-class Cert extends Model
+class Sert extends Model
 {
     use \October\Rain\Database\Traits\Validation;
     
@@ -19,11 +19,7 @@ class Cert extends Model
     /**
      * @var string The database table used by the model.
      */
-    public $table = 'alex_cert_';
-    public $attachOne = [
-        'img' => 'System\Models\File'
-    
-        ];
+    public $table = 'alex_sert_';
 
     /**
      * @var array Validation rules
