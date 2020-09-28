@@ -4,8 +4,8 @@ fields:
         span: full
         type: text
         comment: 'Отображаться будет только в админ панели'
-    Photo:
-        label: 'Загрузка лого'
+    imgs:
+        label: фото
         mode: image
         useCaption: true
         thumbOptions:
