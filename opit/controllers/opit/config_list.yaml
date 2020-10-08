@@ -1,0 +1,12 @@
+list: $/alex/opit/models/opit/columns.yaml
+modelClass: Alex\Opit\Models\Opit
+title: Opit
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'alex/opit/opit/update/:id'

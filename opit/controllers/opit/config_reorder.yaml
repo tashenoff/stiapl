@@ -1,0 +1,4 @@
+title: Opit
+modelClass: Alex\Opit\Models\Opit
+toolbar:
+    buttons: reorder_toolbar

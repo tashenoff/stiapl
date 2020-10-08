@@ -1,0 +1,6 @@
+fields:
+    text:
+        label: Текст
+        size: huge
+        span: full
+        type: richeditor

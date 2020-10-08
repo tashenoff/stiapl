@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.opit::lang.plugin.name'
+    description: 'alex.opit::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Опыт страница'
+        url: alex/opit/opit
+        icon: icon-life-ring

@@ -1,0 +1,10 @@
+name: Opit
+form: $/alex/opit/models/opit/fields.yaml
+modelClass: Alex\Opit\Models\Opit
+defaultRedirect: alex/opit/opit
+create:
+    redirect: 'alex/opit/opit/update/:id'
+    redirectClose: alex/opit/opit
+update:
+    redirect: alex/opit/opit
+    redirectClose: alex/opit/opit
