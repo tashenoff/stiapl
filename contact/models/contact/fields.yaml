@@ -20,3 +20,7 @@ fields:
         size: small
         span: full
         type: richeditor
+    mail:
+        label: 'Электронный адрес'
+        span: full
+        type: text

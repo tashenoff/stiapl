@@ -1,0 +1,10 @@
+name: Opitimg
+form: $/alex/opitimg/models/opitimg/fields.yaml
+modelClass: Alex\Opitimg\Models\Opitimg
+defaultRedirect: alex/opitimg/opitimg
+create:
+    redirect: 'alex/opitimg/opitimg/update/:id'
+    redirectClose: alex/opitimg/opitimg
+update:
+    redirect: alex/opitimg/opitimg
+    redirectClose: alex/opitimg/opitimg

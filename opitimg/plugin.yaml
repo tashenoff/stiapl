@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.opitimg::lang.plugin.name'
+    description: 'alex.opitimg::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Опыт картинки'
+        url: alex/opitimg/opitimg
+        icon: icon-life-ring

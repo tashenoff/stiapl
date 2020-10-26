@@ -1,0 +1,14 @@
+fields:
+    title:
+        label: Text
+        span: full
+        type: text
+    img:
+        label: 'Загрузка Картинки'
+        mode: image
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: fileupload

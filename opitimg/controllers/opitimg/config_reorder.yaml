@@ -1,0 +1,4 @@
+title: Opitimg
+modelClass: Alex\Opitimg\Models\Opitimg
+toolbar:
+    buttons: reorder_toolbar
